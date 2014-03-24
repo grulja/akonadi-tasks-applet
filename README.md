@@ -1,0 +1,2 @@
+akonadi-tasks-applet
+====================
